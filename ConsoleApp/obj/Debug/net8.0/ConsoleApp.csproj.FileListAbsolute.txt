@@ -1,0 +1,14 @@
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\Users\is2212_oes\Desktop\ConsoleApp\src\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
